@@ -1,9 +1,13 @@
 {
-  "chainId": 101,
-  "address": "CAR8jUmrjQ2qjJW3tbZJftkC3bfs1QxbmugYoXS1wQNb",
-  "symbol": "CIRCN",
-  "name": "CIRCUSCN",
-  "decimals": 6,
-  "logoURI": "https://i.imgur.com/m4uOHvh.png",
-  "tags": ["meme", "community", "political", "satire"]
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "CAR8JUmrjQ2qjJW3tbZjFtkC3bfS1QxbmugYoXS1wQNb",
+      "symbol": "CIRCN",
+      "name": "CIRCUSCN",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/m4uOHvh.png",
+      "tags": ["meme", "community", "political", "satire"]
+    }
+  ]
 }
